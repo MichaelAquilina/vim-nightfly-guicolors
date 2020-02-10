@@ -162,7 +162,7 @@ exec "highlight StatusLineTermNC guibg=" . s:slate_blue . " guifg=" . s:cadet_bl
 exec "highlight Label guifg=" . s:turquoise
 
 " end-of-line '$', end-of-file '~'
-exec "highlight NonText guifg=" . s:orange . " gui=none"
+exec "highlight NonText guifg=" . s:grey_blue . " gui=none"
 
 " sizeof
 exec "highlight Operator guifg=" . s:watermelon
